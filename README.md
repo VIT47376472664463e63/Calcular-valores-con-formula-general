@@ -1,10 +1,7 @@
-# Calcular-formula-general
+# Calcular-formula-general este programa es para calcular los ejercicios que se necesite la formula general.Para que este programa funcione lo tiene que copiar en Visual Estudio
 
 
 
-
-using System;
-using System.Runtime.CompilerServices;
 
 
 
